@@ -13,7 +13,7 @@ setup(
     url='https://github.com/ropenttd/libopenttd-python',
     license='https://www.gnu.org/licenses/gpl-3.0.en.html',
     description='A small library for the Client Port interface for OpenTTD.',
-    long_description=open('README.md').read(),
+    long_description=open('README.txt').read(),
     classifiers=[
         'Intended Audience :: Developers',
         'License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)',
